@@ -27,35 +27,37 @@
 
 ### 💫 About Me
 
-I am a results-driven **Frontend Developer** with over 2 years of professional experience crafting modern, responsive, and highly optimized web interfaces. 
+I’m a **Frontend Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
 
-My primary area of specialization is the **Marine & Yachting Industry**. I have successfully built, optimized, and maintained **over 150 websites** in this domain, integrating complex inventory systems and custom features for high-profile dealer platforms like **Strongs Marine**.
+I mainly work in the **Marine & Yachting industry**, where I’ve built, improved, and maintained more than **150 websites**. I’ve also worked with inventory systems and developed custom features for well-known **marine dealers**, including **Strongs Marine**.
 
 ---
 
 ### ⛵ Industry Domain Expertise
 
-*   **150+ Marine Web Apps:** End-to-end development, customization, and SEO optimization tailored to yacht/boat dealerships.
-*   **Performance Optimization:** Expertise in media assets compression, custom inventory search features, and speed improvements.
-*   **Modern Workflows:** Collaboration with design teams to translate complex requirements into pixel-perfect components.
+*   **150+ Marine Web Apps:** Built, customized, and improved over 150 websites for yacht and boat dealerships.
+*   **Performance Optimization:** Optimized website speed, compressed media files, and developed custom inventory search features.
+*   **Team Collaboration:** Worked closely with designers and developers to turn ideas into clean, responsive, and user-friendly websites.
+*   **Mentoring & Leadership:** Guided junior developers, reviewed their work, and helped them complete tasks while maintaining code quality and project standards.
 
 ---
 
 ### 💼 Professional Experience
 
 #### 🏢 **Web Developer** — **Vizz Web Solutions** *(2+ Years)*
-> Specializing in high-performance web development and marine industry systems.
-*   Developed, customized, and maintained 150+ responsive client websites using **React.js** and **Next.js**.
-*   Engineered clean, pixel-perfect layouts using **Tailwind CSS** and **Bootstrap**.
-*   Managed scalable application states with **Redux** and **Zustand**.
-*   Integrated REST APIs, resolved complex bugs, and significantly improved site speed and SEO scores.
+> Worked on modern, high-performance websites, mainly for clients in the marine industry.
+*   Built, customized, and maintained 150+ responsive websites using React.js and Next.js.
+*   Developed clean, responsive, and user-friendly interfaces with Tailwind CSS and Bootstrap.
+*   Used Redux and Zustand for state management in web applications.
+*   Integrated REST APIs, fixed complex issues, and improved website performance and SEO.
+*   Worked closely with designers and other developers to deliver high-quality projects.
+*   Mentored junior developers by reviewing their work, helping them solve technical problems, and guiding them through project tasks.
 
 ---
 
 ### 🎓 Education
 
 *   **Bachelor of Computer Science (BCS)** — *Virtual University of Pakistan (In Progress)*
-*   **Bachelor of Arts (BA)**
 
 ---
 
@@ -101,12 +103,3 @@ My primary area of specialization is the **Marine & Yachting Industry**. I have 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahverse9176&show_icons=true&theme=radical" alt="Abdullah's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahverse9176&layout=compact&theme=radical" alt="Top Languages" />
-</p>
