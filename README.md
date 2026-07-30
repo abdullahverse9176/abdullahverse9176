@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Muhammad Abdullah 👋</h1>
-  <p><strong>Frontend & Full-Stack Developer | Marine Industry Web Specialist</strong></p>
+  <p><strong>Full-Stack Developer</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/muhammad-abdullah-3467b3202/" target="_blank">
@@ -27,9 +27,9 @@
 
 ### 💫 About Me
 
-I’m a **Frontend Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
+I’m a **Full-Stack Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
 
-I mainly work in the **Marine & Yachting industry**, where I’ve built, improved, and maintained more than **150 websites**. I’ve also worked with inventory systems and developed custom features for well-known **marine dealers**, including **Strongs Marine**.
+Over the past two years, I’ve had the opportunity to work on **150+ websites** for clients across different projects. Along the way, I’ve built custom features, improved existing platforms, and worked on inventory management systems. Some of my experience includes projects in the Marine & Yachting industry, where I contributed to solutions for well-known dealers like **Strongs Marine**.
 
 ---
 
