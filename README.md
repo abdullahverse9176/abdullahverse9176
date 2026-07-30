@@ -3,7 +3,7 @@
   <p><strong>Full-Stack Developer</strong></p>
 
   <p>
-    <a href="https://www.linkedin.com/in/muhammad-abdullah-3467b3202/" target="_blank">
+    <a href="https://www.linkedin.com/in/abdullah-fullstackdev/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/abdullah91760?igsh=MWdwcm5kbndjN3Awbg==" target="_blank">
