@@ -27,7 +27,7 @@
 
 ### 💫 About Me
 
-I’m a **Full-Stack Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
+I’m a **front Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
 
 Over the past two years, I’ve had the opportunity to work on **150+ websites** for clients across different projects. Along the way, I’ve built custom features, improved existing platforms, and worked on inventory management systems. Some of my experience includes projects in the Marine & Yachting industry, where I contributed to solutions for well-known dealers like **Strongs Marine**.
 
@@ -39,6 +39,9 @@ Over the past two years, I’ve had the opportunity to work on **150+ websites**
 *   **Performance Optimization:** Optimized website speed, compressed media files, and developed custom inventory search features.
 *   **Team Collaboration:** Worked closely with designers and developers to turn ideas into clean, responsive, and user-friendly websites.
 *   **Mentoring & Leadership:** Guided junior developers, reviewed their work, and helped them complete tasks while maintaining code quality and project standards.
+
+*   **E-commerce Websites:** Built and customized e-commerce storefronts, including Shopify frontend development, for
+various client projects.
 
 ---
 
@@ -61,18 +64,20 @@ Over the past two years, I’ve had the opportunity to work on **150+ websites**
 
 ---
 
-# 💻 Tech Stack
+# 💻 Skills
 
 ### 🌐 Frontend & Core Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-%23333333?style=for-the-badge)
+![Context Api](https://img.shields.io/badge/ContextApi-%23333333?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Liquid](https://img.shields.io/badge/shopify-234ea94b?style=for-the-badge&logo=shopify&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
