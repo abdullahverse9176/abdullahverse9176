@@ -51,7 +51,7 @@ various client projects.
 > Worked on modern, high-performance websites, mainly for clients in the marine industry.
 *   Built, customized, and maintained 150+ responsive websites using React.js and Next.js.
 *   Developed clean, responsive, and user-friendly interfaces with Tailwind CSS and Bootstrap.
-*   Used Redux and Zustand for state management in web applications.
+*   Used Redux Zustand and Context Api for state management in web applications.
 *   Integrated REST APIs, fixed complex issues, and improved website performance and SEO.
 *   Worked closely with designers and other developers to deliver high-quality projects.
 *   Mentored junior developers by reviewing their work, helping them solve technical problems, and guiding them through project tasks.
