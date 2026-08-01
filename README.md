@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Muhammad Abdullah 👋</h1>
-  <p><strong>Full-Stack Developer</strong></p>
+  <p><strong>Frontend Web Developer</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/abdullah-fullstackdev/" target="_blank">
@@ -27,7 +27,7 @@
 
 ### 💫 About Me
 
-I’m a **front Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
+I’m a **Frontend Web Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
 
 Over the past two years, I’ve had the opportunity to work on **150+ websites** for clients across different projects. Along the way, I’ve built custom features, improved existing platforms, and worked on inventory management systems. Some of my experience includes projects in the Marine & Yachting industry, where I contributed to solutions for well-known dealers like **Strongs Marine**.
 
