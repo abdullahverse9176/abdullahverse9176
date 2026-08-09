@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Muhammad Abdullah 👋</h1>
-  <p><strong>Frontend Web Developer</strong></p>
+  <p><strong>Full Stack Developer</strong></p>
 
   <p>
     <a href="https://www.linkedin.com/in/abdullah-fullstackdev/" target="_blank">
@@ -27,9 +27,12 @@
 
 ### 💫 About Me
 
-I’m a **Frontend Web Developer** with 2+ years of professional experience building modern, responsive, and user-friendly websites.
+I’m a **Full Stack Developer** with 2+ years of professional experience building responsive, scalable, and production-ready web
+applications. Proficient in React.js, Next.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs, and modern frontend
+technologies. Experienced in developing and integrating APIs, implementing authentication and validation, optimizing
+application performance, and building responsive user interfaces. Contributed to **150+ web projects**, collaborating with
+cross-functional teams to deliver reliable, maintainable, and user-focused solutions.
 
-Over the past two years, I’ve had the opportunity to work on **150+ websites** for clients across different projects. Along the way, I’ve built custom features, improved existing platforms, and worked on inventory management systems. Some of my experience includes projects in the Marine & Yachting industry, where I contributed to solutions for well-known dealers like **Strongs Marine**.
 
 ---
 
@@ -47,7 +50,7 @@ various client projects.
 
 ### 💼 Professional Experience
 
-#### 🏢 **Web Developer** — **Vizz Web Solutions** *(2+ Years)*
+#### 🏢 **Full Stack Developer** — **Vizz Web Solutions** *(2+ Years)*
 > Worked on modern, high-performance websites, mainly for clients in the marine industry.
 *   Built, customized, and maintained 150+ responsive websites using React.js and Next.js.
 *   Developed clean, responsive, and user-friendly interfaces with Tailwind CSS and Bootstrap.
@@ -60,7 +63,7 @@ various client projects.
 
 ### 🎓 Education
 
-*   **Bachelor of Computer Science (BCS)** — *Virtual University of Pakistan (In Progress)*
+*   **Bachelor of Science in Computer Science** — *Virtual University of Pakistan*
 
 ---
 
@@ -87,7 +90,6 @@ various client projects.
 ### ⚙️ Backend, Databases & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
