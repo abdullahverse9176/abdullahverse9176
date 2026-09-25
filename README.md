@@ -27,37 +27,35 @@
 
 ### 💫 About Me
 
-I’m a **Full Stack Developer** with 2+ years of professional experience building responsive, scalable, and production-ready web
-applications. Proficient in React.js, Next.js, JavaScript, Node.js, Express.js, MongoDB, REST APIs, and modern frontend
-technologies. Experienced in developing and integrating APIs, implementing authentication and validation, optimizing
-application performance, and building responsive user interfaces. Contributed to **150+ web projects**, collaborating with
-cross-functional teams to deliver reliable, maintainable, and user-focused solutions.
-
-
----
-
-### ⛵ Industry Domain Expertise
-
-*   **150+ Marine Web Apps:** Built, customized, and improved over 150 websites for yacht and boat dealerships.
-*   **Performance Optimization:** Optimized website speed, compressed media files, and developed custom inventory search features.
-*   **Team Collaboration:** Worked closely with designers and developers to turn ideas into clean, responsive, and user-friendly websites.
-*   **Mentoring & Leadership:** Guided junior developers, reviewed their work, and helped them complete tasks while maintaining code quality and project standards.
-
-*   **E-commerce Websites:** Built and customized e-commerce storefronts, including Shopify frontend development, for
-various client projects.
+**Full Stack Developer** with 2+ years of experience building responsive, scalable, and production-ready web
+applications using JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, and MongoDB. Experienced in
+AI-powered applications using RAG, LangChain, embeddings, vector databases, and LLM workflows. Skilled in
+REST APIs, authentication, state management, Tailwind CSS, Redux, Zustand, Docker, GitHub Actions, AWS
+EC2, Nginx, and CI/CD. Experienced with Shopify/Liquid and modern AI-assisted development tools including
+Claude, GitHub Copilot, and Antigravity.
 
 ---
 
-### 💼 Professional Experience
+### 💼 Experience
 
 #### 🏢 **Full Stack Developer** — **Vizz Web Solutions** *(2+ Years)*
 > Worked on modern, high-performance websites, mainly for clients in the marine industry.
-*   Built, customized, and maintained 150+ responsive websites using React.js and Next.js.
-*   Developed clean, responsive, and user-friendly interfaces with Tailwind CSS and Bootstrap.
-*   Used Redux Zustand and Context Api for state management in web applications.
-*   Integrated REST APIs, fixed complex issues, and improved website performance and SEO.
-*   Worked closely with designers and other developers to deliver high-quality projects.
-*   Mentored junior developers by reviewing their work, helping them solve technical problems, and guiding them through project tasks.
+*   Built, customized, and maintained 40+ responsive websites using React.js,
+Next.js, and Node.js
+*   Developed and customized e-commerce websites, including Shopify frontend
+development.
+*   Developed clean, responsive, and user-friendly interfaces with Tailwind CSS and
+Bootstrap.
+*   Used Redux and Zustand for state management in web applications.
+*   •Integrated REST APIs, fixed complex issues, and improved website performance
+and SEO.
+*   Worked closely with designers and other developers to deliver high-quality
+projects.
+*   Built AI-powered applications using Retrieval-Augmented Generation (RAG) and
+LangChain for document-based question answering and contextual responses.
+*   Implemented document processing, embeddings, Pinecone vector database, and
+Gemini-powered workflows to retrieve relevant information and generate
+accurate responses.
 
 ---
 
@@ -68,6 +66,12 @@ various client projects.
 ---
 
 # 💻 Skills
+
+### 🤖 AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=for-the-badge)
 
 ### 🌐 Frontend & Core Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
